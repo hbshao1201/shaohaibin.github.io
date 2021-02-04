@@ -3,7 +3,9 @@ layout: default
 ---
 
 [Research](./research.html)  
+
 [Projects](./research.html) 
+
 [Publications](./research.html)
 
 There should be whitespace between paragraphs.
