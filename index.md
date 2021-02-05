@@ -1,10 +1,6 @@
 ![Branching](./images/swarms-ants.jpeg)
 [Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 <h1 id="Research">Research</h1>
 ### Collective learning
 ### Synchronization
@@ -13,12 +9,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <h1 id="Projects">Projects</h1>
 
 <h1 id="Publications">Publications</h1>
-* **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
-  "**Relative tempo of distributed averaging on networks**."   
-  **Automatica** 105 (2019): 159-166.  
-* Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
-  "**Bipartite consensus on matrix-valued weighted networks**."   
-  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
+
+> **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
+>  "**Relative tempo of distributed averaging on networks**."   
+>  **Automatica** 105 (2019): 159-166.  
+
+> Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
+> "**Bipartite consensus on matrix-valued weighted networks**."   
+>  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
+
 <h1 id="Software">Software</h1>
 ### Neighbor selection
 <h1 id="Contact">Contact</h1>
