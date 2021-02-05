@@ -98,7 +98,7 @@ end
 - level 1 item
 
 ### WeChat
-
+<img src="./images/qr.png" width="100" height="100" alt="Please scan the to add my WeChat"/>
 ![Octocat](./images/qr.png)
 
 ### Large image
