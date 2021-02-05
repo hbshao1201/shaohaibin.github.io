@@ -7,8 +7,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <h1 id="Research">Research</h1>
 ### Collective learning
-### Matrix-weighted networks
-### Signed networks
+### Synchronization
 ### Social networks
 
 <h1 id="Projects">Projects</h1>
