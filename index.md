@@ -20,6 +20,14 @@
 > "**Bipartite consensus on matrix-valued weighted networks**"   
 >  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
 
+> Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
+> "**Bipartite consensus on matrix-valued weighted networks**"   
+>  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
+
+> **Haibin Shao**, Mehran Mesbahi, Dewei Li, and Yugeng Xi.   
+> "**Inferring centrality from network snapshots**"   
+> **Scientific reports** 7, no. 1 (2017): 1-13.  
+
 <h2 id="Software">Software</h2>
 ### Neighbor selection
 
