@@ -12,7 +12,7 @@
 
 > Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.
 >  "**Consensus on Matrix-weighted Switching Networks**"   
->  **IEEE Transactions on Automatic Control** 2021. (To appear)
+>  **IEEE Transactions on Automatic Control** (2021). (To appear)
 
 > **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
 >  "**Relative tempo of distributed averaging on networks**"   
