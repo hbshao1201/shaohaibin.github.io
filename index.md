@@ -1,3 +1,4 @@
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 [Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
 
 There should be whitespace between paragraphs.
@@ -100,10 +101,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
