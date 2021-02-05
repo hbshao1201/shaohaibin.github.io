@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Research](./research.html) [Projects](./research.html) [Publications](./research.html)
+[Research](./research.html) [Projects](./research.html) [Publications](./research.html) [Software](./software.html) [Contact](./contact.html) [Google scholar](https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en) 
 
 There should be whitespace between paragraphs.
 
