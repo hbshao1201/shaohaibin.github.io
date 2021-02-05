@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
 
 There should be whitespace between paragraphs.
