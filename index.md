@@ -23,7 +23,7 @@
 <h2 id="Software">Software</h2>
 ### Neighbor selection
 
-> A matlab code for distributed neighbor selection in multi-agent network using relative tempo amongst adjacent agents.
+> A matlab code for distributed neighbor selection in multi-agent network using relative tempo amongst adjacent agents. [Download](./codes/neighbor-selection/main.zip)
 
 <h2 id="Contact">Contact</h2>
 ### Phone
