@@ -14,7 +14,7 @@
 
 <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en">Google Scholar</a>   
 
-> Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.
+> Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.    
 >  "**Consensus on Matrix-weighted Switching Networks**"   
 >  **IEEE Transactions on Automatic Control** (2021). (To appear)
 
