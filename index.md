@@ -6,8 +6,6 @@
 
 * **Social networks** a question.
 
-<h2 id="Projects">Projects</h2>
-
 <h2 id="Publications">Publications</h2>
 
 > Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.
