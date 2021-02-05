@@ -2,15 +2,15 @@
 layout: default
 ---
 
-[Research](./research.html) |  [Projects](./research.html) |  [Publications](./research.html) |  [Software](./software.html) |  [Contact](./contact.html) |  [Google scholar]() 
+[Research](#research) |  [Projects](./research.html) |  [Publications](./research.html) |  [Software](./software.html) |  [Contact](./contact.html) |  [Google scholar]() 
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Research
+# [Research](#research)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a normal paragraph following a header. 
 
 # Projects
 
