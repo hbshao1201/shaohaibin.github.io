@@ -1,4 +1,4 @@
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](./images/swarms-ants.jpeg)
 [Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
 
 There should be whitespace between paragraphs.
