@@ -2,12 +2,13 @@
 <h2 id="Research">Research</h2>
 * **Collective learning** a question.  
 
+* **Swarm robotics** a question.
+
 * **Synchronization** a question.  
 
 * **Social networks** a question.
 
 * **Fiedler vector** a question.
-
 <h2 id="Publications">Publications</h2>
 
 <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en">Google Scholar</a>   
