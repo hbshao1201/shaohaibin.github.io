@@ -9,17 +9,18 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Research
+<h1 id="Research">Research</h1>
 
 This is a normal paragraph following a header. 
 
 # Projects
-
+<h1 id="Projects">Projects</h1>
 # Publications
-
+<h1 id="Publications">Publications</h1>
 # Software
-
+<h1 id="Software">Software</h1>
 # Contact
-
+<h1 id="Contact">Contact</h1>
 ## Header 2
 
 > This is a blockquote following a header.
