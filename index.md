@@ -1,5 +1,6 @@
 <img src="./images/swarms-ants.jpeg" width="400"/>
 <h2 id="Research">Research</h2>
+
 * **Collective learning** a question.  
 
 * **Swarm robotics** a question.
