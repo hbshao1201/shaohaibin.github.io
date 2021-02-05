@@ -1,6 +1,5 @@
-![Branching](./images/swarms-ants.jpeg)
 [Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
-
+<img src="./images/swarms-ants.jpeg" width="400"/>
 <h1 id="Research">Research</h1>
 ### Collective learning
 ### Synchronization
@@ -31,4 +30,4 @@
 ### Email
 shore At sjtu Dot edu Dot cn
 ### WeChat
-<img src="./images/qr.png" width="100" height="100" alt="Please scan the to add my WeChat"/>
+<img src="./images/qr.png" width="100" height="100"/>
