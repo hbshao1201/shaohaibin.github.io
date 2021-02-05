@@ -19,6 +19,10 @@ This is a normal paragraph following a header.
 <h1 id="Software">Software</h1>
 
 <h1 id="Contact">Contact</h1>
+### Phone
++86 15921538695
+### Email
+shore At sjtu Dot edu Dot cn
 ### WeChat
 <img src="./images/qr.png" width="100" height="100" alt="Please scan the to add my WeChat"/>
 
