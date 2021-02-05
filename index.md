@@ -1,4 +1,4 @@
-<img src="./images/swarms-ants.jpeg" width="480"/>
+<img src="./images/swarms-ants.jpeg" width="400"/>
 <h2 id="Research">Research</h2>
 ### Collective learning
 ### Synchronization
@@ -19,7 +19,6 @@
 > Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
 > "**Bipartite consensus on matrix-valued weighted networks**"   
 >  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
-
 
 <h2 id="Software">Software</h2>
 ### Neighbor selection
