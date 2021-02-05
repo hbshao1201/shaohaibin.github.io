@@ -1,15 +1,16 @@
 <img src="./images/swarms-ants.jpeg" width="400"/>
-<h2 id="Research">Research</h2>
+<h2 id="Research">Research Interests</h2>
 
-* **Collective learning** a question.  
+* **Collective learning**  
 
-* **Swarm robotics** a question.
+* **Swarm robotics** 
 
-* **Synchronization** a question.  
+* **Synchronization** 
 
-* **Social networks** a question.
+* **Social networks** 
 
-* **Fiedler vector** a question.
+* **Fiedler vector**
+
 <h2 id="Publications">Publications</h2>
 
 <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en">Google Scholar</a>   
