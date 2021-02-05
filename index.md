@@ -19,6 +19,10 @@ This is a normal paragraph following a header.
 <h1 id="Software">Software</h1>
 
 <h1 id="Contact">Contact</h1>
+### WeChat
+<img src="./images/qr.png" width="100" height="100" alt="Please scan the to add my WeChat"/>
+
+
 ## Header 2
 
 > This is a blockquote following a header.
@@ -96,10 +100,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### WeChat
-<img src="./images/qr.png" width="100" height="100" alt="Please scan the to add my WeChat"/>
-![Octocat](./images/qr.png)
 
 ### Large image
 
