@@ -1,7 +1,9 @@
 <img src="./images/swarms-ants.jpeg" width="400"/>
 <h2 id="Research">Research</h2>
-> **Collective learning** a question.
-> **Synchronization** a question.
+> **Collective learning** a question.  
+>
+> **Synchronization** a question.  
+>
 > **Social networks** a question.
 
 <h2 id="Projects">Projects</h2>
