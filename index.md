@@ -2,14 +2,13 @@
 layout: default
 ---
 
-[Research](#Research) |  [Projects](./research.html) |  [Publications](./research.html) |  [Software](./software.html) |  [Contact](./contact.html) |  [Google scholar]() 
+[Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Research
-<h1 id="Research">这是个人简介</h1>
 
 This is a normal paragraph following a header. 
 
