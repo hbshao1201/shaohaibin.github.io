@@ -23,11 +23,11 @@
 <h2 id="Software">Software</h2>
 ### Neighbor selection
 
-> A mathlab code for distributed neighbor selection in multi-agent network using relative tempo amongst adjacent agents.
+> A matlab code for distributed neighbor selection in multi-agent network using relative tempo amongst adjacent agents.
 
 <h2 id="Contact">Contact</h2>
 ### Phone
-+86 15921538695
++86 159 2153 8695
 ### Email
 shore At sjtu Dot edu Dot cn
 ### WeChat
