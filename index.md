@@ -1,13 +1,12 @@
-[Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
 <img src="./images/swarms-ants.jpeg" width="480"/>
-<h1 id="Research">Research</h1>
+<h2 id="Research">Research</h2>
 ### Collective learning
 ### Synchronization
 ### Social networks
 
-<h1 id="Projects">Projects</h1>
+<h2 id="Projects">Projects</h2>
 
-<h1 id="Publications">Publications</h1>
+<h2 id="Publications">Publications</h2>
 
 > Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.
 >  "**Consensus on Matrix-weighted Switching Networks**"   
@@ -22,9 +21,9 @@
 >  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
 
 
-<h1 id="Software">Software</h1>
+<h2 id="Software">Software</h2>
 ### Neighbor selection
-<h1 id="Contact">Contact</h1>
+<h2 id="Contact">Contact</h2>
 ### Phone
 +86 15921538695
 ### Email
