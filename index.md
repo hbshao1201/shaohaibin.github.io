@@ -1,5 +1,5 @@
 [Research](#Research) |  [Projects](#Projects) |  [Publications](#Publications) |  [Software](#Software) |  [Contact](#Contact) |  [Google scholar]() 
-<img src="./images/swarms-ants.jpeg" width="550"/>
+<img src="./images/swarms-ants.jpeg" width="480"/>
 <h1 id="Research">Research</h1>
 ### Collective learning
 ### Synchronization
