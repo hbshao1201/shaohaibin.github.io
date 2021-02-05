@@ -6,15 +6,17 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 <h1 id="Research">Research</h1>
-## hi
-This is a normal paragraph following a header. 
+### Collective learning
+### Matrix-weighted networks
+### Signed networks
+### Social networks
 
 <h1 id="Projects">Projects</h1>
 
 <h1 id="Publications">Publications</h1>
 
 <h1 id="Software">Software</h1>
-
+### Neighbor selection
 <h1 id="Contact">Contact</h1>
 ### Phone
 +86 15921538695
