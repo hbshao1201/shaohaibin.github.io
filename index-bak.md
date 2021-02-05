@@ -2,7 +2,11 @@
 layout: default
 ---
 
-[Research](./research.html) [Projects](./research.html) [Publications](./research.html)
+[Research](./research.html)
+
+[Projects](./research.html) 
+
+[Publications](./research.html)
 
 There should be whitespace between paragraphs.
 
@@ -118,6 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-​```Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-```
+```Text can be **bold**, _italic_, or ~~strikethrough~~.
