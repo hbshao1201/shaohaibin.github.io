@@ -42,4 +42,4 @@ shore At sjtu Dot edu Dot cn
 ### WeChat
 <img src="./images/qr.png" width="100" height="100"/>
 
-<p><a href="http://www.clustrmaps.com/map/shaohaibin.github.io" title="Visit tracker for shaohaibin.github.io"><img src="//www.clustrmaps.com/map_v2.png?u=sqAQ&d=YVX7eO0QbalDRmfl_F8R4SEFkRAZsKu910jCDqUS9KE" /></a></p>
+<p><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bfh_d847zkv8wAbEuGugG_PCPgQI6FZhXr2FAruzDbI&cl=ffffff&w=a"></script></p>
